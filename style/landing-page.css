@@ -1,0 +1,10 @@
+.banner{
+    background-image: url("../images/Banner\ Image.png");
+    background-color: #070211;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+    color: #ffffff;
+    margin: 50px 300px;
+    
+}
